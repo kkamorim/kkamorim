@@ -12,7 +12,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e técnico em Desenvolvi
 const kaua = {
     nome: "Kauã de Souza Amorim Santos",
     foco: "Desenvolvedor Front-end",
-    stack: ["React Native", "React", "JavaScript", "TailwindCSS", "Bootstrap"],
+    stack: ["React Native", "React", "JavaScript", "TypeScript" "TailwindCSS", "Bootstrap"],
     ferramentas: ["Git", "Docker", "Integração de APIs REST", "Figma"],
     missao: "Criar interfaces intuitivas, responsivas e acessíveis",
     mentalidade: "Foco em UX, UI, componentização e código limpo",
@@ -35,7 +35,7 @@ const kaua = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,dockerfigma&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,git,github,dockerfigma&perline=10" />
 
 </div>
 
